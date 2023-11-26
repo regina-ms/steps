@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "imask": "^7.1.3",
+    "moment": "^2.29.4",
+    "react-imask": "^7.1.3"
   }
 }
